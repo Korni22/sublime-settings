@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-ocean.tmTheme",
+	"font_face": "IBM Plex Mono",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"scroll_past_end": true,
+	"theme": "Spacegray.sublime-theme"
+}
